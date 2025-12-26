@@ -28,9 +28,6 @@
 ## 📦 Projekte
 
 ### ⭐ Just-Creators.de
-## 📦 Projekte
-
-### ⭐ Just-Creators.de
 Du bist kleiner Content Creator und suchst noch nach einem Minecraft Projekt! Dann haben wir genau das Richtige für dich. JustCreators ist deine Möglichkeit im Raum von Social Media zu wachsen!
 
 </details>
