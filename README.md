@@ -38,7 +38,7 @@ Du bist kleiner Content Creator und suchst noch nach einem Minecraft Projekt! Da
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=knewstm&bg_color=ffffff&color=0f172a&line=38bdf8&point=0284c7&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=knewstm&bg_color=242320&color=0f172a&line=38bdf8&point=0284c7&area=true&hide_border=true"
     width="100%"
     alt="Contribution graph"
   />
